@@ -22,16 +22,16 @@ Web-app based on spring boot and hibernate
     6. Server: TomCat 9.0x
   
   <B>Screenshots</B><BR>
-    <B>1. Login. 
-  ![test image size](https://github.com/kushalagrawal1998/CRM/tree/master/ss/login.png)<BR>
+    <B>1. Login. <br>
+  ![test image size](https://github.com/kushalagrawal1998/CRM/blob/master/ss/login.png)<BR>
     
   <B>2. Employee Login.</B><BR>
-  ![test image size](https://github.com/kushalagrawal1998/CRM/tree/master/ss/simple.png)
+  ![test image size](https://github.com/kushalagrawal1998/CRM/blob/master/ss/simple.png)
   
   
   <B>3. Admin login </B><BR>
-  ![test image size](https://github.com/kushalagrawal1998/CRM/tree/master/ss/role_employee.png)
+  ![test image size](https://github.com/kushalagrawal1998/CRM/blob/master/ss/role_employee.png)
   
   
   <B>4. Logout </B><BR>
-  ![test image size](https://github.com/kushalagrawal1998/CRM/tree/master/ss/logout.png)
+  ![test image size](https://github.com/kushalagrawal1998/CRM/blob/master/ss/logout.png)
