@@ -8,7 +8,7 @@ Web-app based on spring boot and hibernate
     4. The user with the role admin canview the data and can perform operations like delete and update.<br>
   
   <B>Learning Objectives, Aim, Purpose, Abstract :</B><BR>
-    1. Learn and master the basic and advanced concepts of core Java SE & Java EE along with popular frameworks like Hibernate and Spring Boot with template engin like thymeleaf.<br>
+    1. Learn and master the basic and advanced concepts of core Java SE & Java EE along with popular frameworks like Hibernate and Spring Boot with template engin like thymeleaf and <B>Spring Security.<br>
     2. Gain expertise in the concepts like Java OOPs, Java Function, Java Collections ,Java Servlet, Java Design Patterns.<br>
     3. Learn basic concepts of AWS cloud database.
   
