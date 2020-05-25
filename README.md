@@ -2,7 +2,7 @@
 Web-app based on spring boot and hibernate
 
 <B>This project perform the following tasks :</B><BR>
-    1. The project accepts userbname and password and authenticates the given credentials with the <B>AWS Cloud Database</B>.<br>
+    1. The project accepts username and password and authenticates the given credentials with the <B>AWS Cloud Database</B>.<br>
     2. The user can perform the task as per the role assigned.<br>
     3. The user with the role employee can only view the data.<br>
     4. The user with the role admin canview the data and can perform operations like delete and update.<br>
